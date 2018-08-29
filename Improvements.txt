@@ -1,5 +1,0 @@
-Improvements:
-1. Search for any updates (deletion/addition) in the input file periodically (say, every 1 hour).
-Solution: Google Drive API can be used to check for file additions or deletions and append the data structure or delete the data of deleted images.
-
-2. Store the results in a database or provide the results file to the user to avoid prediction cost next time.
