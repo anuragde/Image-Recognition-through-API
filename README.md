@@ -1,4 +1,4 @@
-# Predict-Images
+# Image Recognition through API
 Predicts the tags for the images (Clarifai Predict API) and returns a maximum of top 10 tags predicted by the Clarifai Predict API in the sorted order. 
 
 1. Get the Clarifai Predict API key (https://clarifai.com/developer/account/login) and insert in clientSecret.go
